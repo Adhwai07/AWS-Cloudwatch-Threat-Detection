@@ -48,18 +48,23 @@ This project focuses on the analysis of AWS CloudWatch traffic dataset to uncove
 **Exploratory Data Analysis (EDA)**
 
 - Traffic Distribution: Visualized bytes transferred and session durations.
+  
   ![image](https://github.com/user-attachments/assets/19bfad2a-e6f4-40e1-89d2-d26c72a80542)
 
 
 - Top Source Countries: Identified highest traffic contributors.
-  ![image](https://github.com/user-attachments/assets/521aa5ef-e430-4dbe-83c2-6a8e4e482cb5)
+
+ ![Screenshot 2025-04-26 200409](https://github.com/user-attachments/assets/479ce088-9fbd-4f77-8acc-fa41a5817a69)
+
 
 
 - Hourly Trends: 9 AM peak in session activity.
+  
   ![Screenshot 2025-04-26 200622](https://github.com/user-attachments/assets/1f1dc586-44f6-4fac-8a34-869c5d593949)
 
 
 - Frequent IPs: Ranked source IP addresses by frequency.
+  
   ![Screenshot 2025-04-26 200704](https://github.com/user-attachments/assets/054b6cef-cb81-4c48-9005-940d4e30b718)
 
 
@@ -84,6 +89,7 @@ Output: Sessions labeled as 'Normal' or 'Highly Suspicious'
 **Results**
 
 **Suspicious IPs:**
+
 ![image](https://github.com/user-attachments/assets/b0f9fd61-bcaa-4ee9-8633-5a31a98d77be)
 
 
@@ -92,6 +98,7 @@ Output: Sessions labeled as 'Normal' or 'Highly Suspicious'
 - 165.225.240.79 (Second most)
 
 **Top Suspicious Countries:**
+
 ![image](https://github.com/user-attachments/assets/b1c80e0a-ddf0-4ea3-a135-4b054dbb7483)
 
 
